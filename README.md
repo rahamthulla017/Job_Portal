@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Job Application Portal
 
 Small React app to demo a job application flow: a submission form and a list view.
@@ -139,3 +140,7 @@ npm start; npx json-server --watch db.json --port 4000
 - If tests fail due to environment differences (React version, router), ask for the target browser/runtime.
 
 If any of these details are unclear or you'd like more examples (unit tests, CI, or extended backend examples), tell me which area to expand.
+=======
+# Job_Portal
+To build a Job Application Portal mini project with the specified features — forms, validation, file upload, API calls, routing, listing, and search — start with a simple tech stack such as React for the frontend and use json-server or localStorage for temporary backend/mock API functionality.
+>>>>>>> 63ac83ed6a105d23cce2d603b3da3f445a27ac93
