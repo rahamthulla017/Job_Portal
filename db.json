@@ -1,0 +1,20 @@
+{
+  "applications": [
+    {
+      "id": "a9a1",
+      "name": "user1",
+      "email": "user1@gmail.com",
+      "phone": "9494218856",
+      "experience": "5",
+      "resume": "Rahamthulla Resume1.pdf"
+    },
+    {
+      "id": "46e0",
+      "name": "Anu",
+      "email": "Anu@gmail.com",
+      "phone": "8989955555",
+      "experience": "2",
+      "resume": "Rahamthulla Resume1.pdf"
+    }
+  ]
+}
