@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Job Application Portal
 
 Small React app to demo a job application flow: a submission form and a list view.
@@ -141,13 +141,14 @@ npm start; npx json-server --watch db.json --port 4000
 
 If any of these details are unclear or you'd like more examples (unit tests, CI, or extended backend examples), tell me which area to expand.
 =======
+<img width="1919" height="663" alt="Screenshot 2025-11-21 180444" src="https://github.com/user-attachments/assets/e008f073-17fc-4ee3-b1ce-e9866d37765f" />
+
+<img width="1919" height="570" alt="Screenshot 2025-11-21 181259" src="https://github.com/user-attachments/assets/eb9181f2-8ba9-4395-bada-6de297ead43d" />
+
 <img width="664" height="413" alt="Screenshot 2025-11-21 182506" src="https://github.com/user-attachments/assets/33cccb1e-1139-4c80-91ec-bf96a28a1613" />
 
 <img width="1251" height="378" alt="Screenshot 2025-11-21 181340" src="https://github.com/user-attachments/assets/0a65d939-4814-4af6-a0cb-0e4f522e561d" />
 
-<img width="1143" height="380" alt="Screenshot 2025-11-21 181324" src="https://github.com/user-attachments/assets/0231fc2d-07d2-40c7-9a4e-59bcdebd7e5b" />
-
-<img width="1143" height="380" alt="Screenshot 2025-11-21 181324" src="https://github.com/user-attachments/assets/6ccf684a-cf20-43b9-baff-e26ba43732fb" />
 
 
 
